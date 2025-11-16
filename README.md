@@ -1,7 +1,7 @@
 # Project: NAME
 
 ## Contributors
-NAME, NAME, NAME
+Rentian Yu
 
 ## Dependencies
 - LANGUAGE AND VERSION
